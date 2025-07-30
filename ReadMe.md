@@ -1,10 +1,10 @@
-🩺 Diabetes Prediction Using Machine Learning
+# 🩺 Diabetes Prediction Using Machine Learning
 
 This project utilizes **Support Vector Machine (SVM)** to develop a model that predicts whether a person is likely to have diabetes, based on medical diagnostic data.
 
 ---
 
-📊 Dataset Info
+# 📊 Dataset Info
 
 This dataset includes diagnostic data for female patients of at least 21 years of age. It contains the following features:
 
